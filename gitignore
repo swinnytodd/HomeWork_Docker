@@ -1,0 +1,9 @@
+.idea
+*.iml
+__pycache__
+venv
+/hello.egg-info/
+/dist/
+/build/
+/build_pyz_output/
+/hello-0.1.0.pyz
